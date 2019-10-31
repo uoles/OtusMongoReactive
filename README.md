@@ -1,1 +1,3 @@
 # OtusMongoReactive
+
+Тестовый сервис.
